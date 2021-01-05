@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2612df6-97e6-47a5-bef2-ac1fb80aa8b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/components/Accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/components/AppBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../client/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_hw6_Testing/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../react_hw6_Testing/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_hw6_Testing/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../react_hw6_Testing/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react_hw6_Testing/src/components/Button/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../react_hw6_Testing/src/components/Button/Button.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1meCu0hwnRVQzpSfVn2NrckFQVN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../pe22/react/classworks/server" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2612df6-97e6-47a5-bef2-ac1fb80aa8b4" name="Default Changelist" comment="" />
+      <created>1609844888284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609844888284</updated>
+      <workItem from="1609844889754" duration="1099000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="142" key="FileChooserDialogImpl" timestamp="1609845909719">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="502" y="142" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1609845909719" />
+  </component>
+</project>
